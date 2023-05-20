@@ -1,6 +1,3 @@
-Sure, I can add that to the project plan. The start page number and end page number will be used to specify the range of pages that will be scraped. This will help to ensure that the data is collected in a timely and efficient manner.
-
-Here is the updated project plan:
 
 **Project Title:** Upwork Profiles Data Scraping
 
